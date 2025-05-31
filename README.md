@@ -1,4 +1,4 @@
-# SmartOne
+# Testing for Smartone Agentic Use Cases
 
 A simple agent implementation using the strands library.
 
