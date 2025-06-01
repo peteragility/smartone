@@ -1,2 +1,3 @@
-strands
-strands_tools
+strands-agents
+strands-agents-tools
+streamlit>=1.30.0
